@@ -6,6 +6,11 @@ The overall Objective of this project is to predict if customers will make a cla
 
 https://www.kaggle.com/datasets/sagnik1511/car-insurance-data
 
+# Visualizations of Data:
+
+![image](https://user-images.githubusercontent.com/117705408/231906988-25269357-7331-4f1d-a0ec-d215789acd92.png)
+
+
 # Methods used for Data Preparation:
 
 Before splitting the data I will drop the duplicates and check for any inconsistancies, this will help prepare the data for machine learning. Then I identified the features (X) and the target (y) and performed a validation split. Next, I created a preprocessing object to prepare the dataset for Machine Learning. I imputed missing values using the Simple Imputer after the validation split to minimize the chance of any data leakage.
