@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/sagnik1511/car-insurance-data
 
 # Visualizations of Data:
 
-![image](https://user-images.githubusercontent.com/117705408/231906988-25269357-7331-4f1d-a0ec-d215789acd92.png)
+![image](https://user-images.githubusercontent.com/117705408/231907059-ab22f43d-3d03-489a-9645-6f49a21df8a1.png)
 
 
 # Methods used for Data Preparation:
