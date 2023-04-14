@@ -6,10 +6,13 @@ The overall Objective of this project is to predict if customers will make a cla
 
 https://www.kaggle.com/datasets/sagnik1511/car-insurance-data
 
+# Project Overview:
+
+Built Logistic Regression Model, Random Forest Classifier, and KNN models and tuned them using GridsearchCV. I used GridsearchCV because it will systematically search through a specified range of hyperparameters to find the best combination of hyperparameters that optimizes the performance of the model. This ensures I'm getting the best posible version of the model.
+
 # Visualizations of Data:
 
 ![download](https://user-images.githubusercontent.com/117705408/231908899-49c9f21b-afce-4b78-ab3b-b6733cb0d1fb.png)
-
 
 - This visualization shows the number of claims inside the different income levels of the people who are in the dataset.
 - The trend that is clearly visable here is that the poverty class has a much larger amount more claims than most of the other income classes.
