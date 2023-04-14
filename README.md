@@ -8,8 +8,23 @@ https://www.kaggle.com/datasets/sagnik1511/car-insurance-data
 
 # Visualizations of Data:
 
-![image](https://user-images.githubusercontent.com/117705408/231907059-ab22f43d-3d03-489a-9645-6f49a21df8a1.png)
+![image](https://user-images.githubusercontent.com/117705408/231907713-eace9c85-440d-4905-9851-4adba8d6d5ef.png)
 
+- This visualization shows the number of claims inside the different income levels of the people who are in the dataset.
+- The trend that is clearly visable here is that the poverty class has a much larger amount more claims than most of the other income classes.
+- This is more than likely because people of this income level are unable to afford the cost of repairs caused by an incident.
+- The upper class has the lowest amount of claims overall, likely due to the fact that most of them can afford to repair their vehichle without making a claim.
+
+![image](https://user-images.githubusercontent.com/117705408/231907892-46963848-9893-4e78-92a3-7ed86217c287.png)
+
+- This shows us the percentage of people in each imcome class who own their own car.
+- The people who do not own their own car are most likely easing their vehicle.
+- The trend we are clearly able to see here is that the higher income class someone is in, the better chance there is that they own their own car.
+
+![image](https://user-images.githubusercontent.com/117705408/231908671-72cb1146-9e0a-4939-a6ac-5b276c1f569d.png)
+
+This shows us the number of people who had Dui's for each possible outcome result(1 or 0)
+There seems to be somewhat of a trend with the people who have no Dui's are more prone to make a claim on their insurance. This is most likely because the people who have at least one Dui went to jail and their insurance company more than likely dropped their coverage, or at the least they did not make a claim on their insurance because they don't offer coverage for people who are in an accident under the influence.
 
 # Methods used for Data Preparation:
 
