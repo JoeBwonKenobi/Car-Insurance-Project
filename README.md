@@ -20,7 +20,7 @@ Built Logistic Regression Model, Random Forest Classifier, and KNN models and tu
 - This is more than likely because people of this income level are unable to afford the cost of repairs caused by an incident.
 - The upper class has the lowest amount of claims overall, likely due to the fact that most of them can afford to repair their vehichle without making a claim.
 
-![download](https://user-images.githubusercontent.com/117705408/231908926-01faf914-e525-4efd-8e51-bea5d1629567.png)
+![image](https://user-images.githubusercontent.com/117705408/235288620-b20db775-d794-423f-a355-de8a6abcbf58.png)
 
 - This shows us the percentage of people in each imcome class who own their own car.
 - The people who do not own their own car are most likely easing their vehicle.
