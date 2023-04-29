@@ -26,7 +26,7 @@ Built Logistic Regression Model, Random Forest Classifier, and KNN models and tu
 - The people who do not own their own car are most likely easing their vehicle.
 - The trend we are clearly able to see here is that the higher income class someone is in, the better chance there is that they own their own car.
 
-![download](https://user-images.githubusercontent.com/117705408/231908963-89790edd-9a4b-4678-ac80-655784637af2.png)
+![image](https://user-images.githubusercontent.com/117705408/235288673-e73b3dcc-3388-4a79-a9e2-e3c325d6bfdb.png)
 
 - This shows us the number of people who had Dui's for each possible outcome result(1)DUI or (0)no DUI.
 - There is a trend with the people who have no Dui's, they are more prone to make a claim on their insurance. 
