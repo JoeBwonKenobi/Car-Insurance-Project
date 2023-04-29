@@ -12,7 +12,8 @@ Built Logistic Regression Model, Random Forest Classifier, and KNN models and tu
 
 # Visualizations of Data:
 
-![download](https://user-images.githubusercontent.com/117705408/231908899-49c9f21b-afce-4b78-ab3b-b6733cb0d1fb.png)
+![image](https://user-images.githubusercontent.com/117705408/235288525-e42d9266-b5a4-45b1-ad6d-37d6ed45391f.png)
+
 
 - This visualization shows the number of claims inside the different income levels of the people who are in the dataset.
 - The trend that is clearly visable here is that the poverty class has a much larger amount more claims than most of the other income classes.
