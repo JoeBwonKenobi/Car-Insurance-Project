@@ -34,7 +34,11 @@ Built Logistic Regression Model, Random Forest Classifier, and KNN models and tu
 
 # Methods used for Data Preparation:
 
-Before splitting the data I will drop the duplicates and check for any inconsistancies, this will help prepare the data for machine learning. Then I identified the features (X) and the target (y) and performed a validation split. Next, I created a preprocessing object to prepare the dataset for Machine Learning. I imputed missing values using the Simple Imputer after the validation split to minimize the chance of any data leakage.
+To get the data ready for the machine to learn, I'll make sure there are no duplicates and that everything is consistent. Then I'll separate the data into two groups: one group that shows what we want the machine to learn (the "target" or y) and another group that provides information for the machine to use (the "features" or X).
+
+After that, I'll divide the data into a training set and a validation set, so we can test how well the machine is learning. I'll use a set of tools called a "preprocessing object" to get the data ready for the machine, and one of the things I'll do is fill in any missing information.
+
+To make sure the missing information doesn't interfere with the machine's learning, I'll wait until after the validation split to fill it in. This way, the machine won't be able to use any information from the validation set to learn about the training set.
 
 # Model:
 The model I ended up using is a Logistic Regression Model. For this particular model, I used Gridsearch CV to find the best parameters to tune
