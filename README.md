@@ -47,3 +47,7 @@ My best model for predicting car insurance claims was a logistic regression mode
 
 # Interpretation and Description of Model:
 There are many unpredictable factors that come into play when predicting claims for car insurance. Even the best drivers could unexpectedly end up in an accident and have to use their claim. But if this model were put into production, it would do a pretty decent job at being able to predict car insurance claims. At 84% accuracy for the test data, this would be a good choice for the company to use to predict car insurance claims. It should not be used as an extremely reliable model, due to the unpredictable nature of what we are predicting, it should be taken more as a strong suggestion then a solid prediction.
+
+# **Recomendations:**
+
+# **Limitations &Next steps**
