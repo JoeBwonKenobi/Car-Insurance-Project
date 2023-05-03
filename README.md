@@ -50,4 +50,8 @@ There are many unpredictable factors that come into play when predicting claims 
 
 # **Recomendations:**
 
+ The insurance company could use the model as a reference or suggestion for making predictions, but more data would need to be obtained to get a higher accuracy from the model. A wider scope of insurance data would provide a much deeper insight and inturn imorove the accuracy of the model. With more data, it has more opurtunities to learn and make better predictions. Thes insights about income level and number of claims could provide a chance for the sales team to make some changes on advertizing, and for the finaincial executives to look at adjusting prices accordingly.
+ 
 # **Limitations &Next steps**
+
+The linear regression model's ability to make predictions is only as good as the data I give it allows it to be. Meaning the more data I give it the better accuracy it will obtain. The next steps would be to try and obtain more data from the insurance company and run the new data through the model I've created. Based on my findings so far, there are many insightfull discoveries in the data that was provided. Knowing the trends in income levels, vehichle ownership, and many other categories can give extremely helpful suggestions to corporate executives within the insurance company. These can be used to make a number of different descisions including the pricing of preiums, straegy of advertizement, policy terms, and a number of other very critical parts of running an insurance company.
