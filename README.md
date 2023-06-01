@@ -1,5 +1,8 @@
 # **Car Insurance Predictions**
 
+![image](https://github.com/JoeBwonKenobi/Car-Insurance-Project/assets/117705408/710433cc-443f-45ec-b72f-07664df61321)
+
+
 The overall objective of this project is to predict if customers will make a claim on their insurance using data from an insurance company.
 
 # **Link to Orignal Data Source:**
