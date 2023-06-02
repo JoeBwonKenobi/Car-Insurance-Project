@@ -15,7 +15,13 @@ I built a Logistic Regression Model, Random Forest Classifier, and KNN models an
 I separated this project into four different notebooks for the four major steps included in the project,They are linked below:
 
 1. Prepose two choices for datasets that meet the requirements of the project.
-2.  
+
+   https://github.com/JoeBwonKenobi/Car-Insurance-Project/blob/main/Project2_Part_1ipynb.ipynb
+   
+2. Clean the data in the selected dataset from the previous notebook.
+
+
+4. 
 
 # **Visualizations of Data:**
 
