@@ -20,8 +20,11 @@ I separated this project into four different notebooks for the four major steps 
    
 2. Clean the data in the selected dataset from the previous notebook.
 
+   https://github.com/JoeBwonKenobi/Car-Insurance-Project/blob/main/Project2_Part_2.ipynb
 
-4. 
+3. Visualize the trends and coorelations within the dataset.
+
+
 
 # **Visualizations of Data:**
 
