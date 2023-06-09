@@ -25,7 +25,7 @@ I separated this project into four different notebooks for the four major steps 
 
 3. Visualize the trends and coorelations within the dataset.
 
-   https://github.com/JoeBwonKenobi/Car-Insurance-Project/blob/main/Project2_Part_3.ipynb
+   https://github.com/JoeBwonKenobi/Car-Insurance-Project/blob/main/Visualizing_Trends_and_Coorelations.ipynb
    
  4. Build multiple models, use gridsearchCV and PCA to find the optomized version of the best model used to make predictions.
 
