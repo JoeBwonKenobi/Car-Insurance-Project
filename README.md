@@ -16,7 +16,7 @@ I separated this project into four different notebooks for the four major steps 
 
 1. Prepose two choices for datasets that meet the requirements of the project.
 
-   https://github.com/JoeBwonKenobi/Car-Insurance-Project/blob/main/Project2_Part_1ipynb.ipynb
+   [https://github.com/JoeBwonKenobi/Car-Insurance-Project/blob/main/Project2_Part_1ipynb.ipynb](https://github.com/JoeBwonKenobi/Car-Insurance-Project/blob/main/Choosing_between_two_datasets.ipynb)
    
 2. Clean the data in the selected dataset from the previous notebook.
 
