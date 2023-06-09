@@ -29,7 +29,7 @@ I separated this project into four different notebooks for the four major steps 
    
  4. Build multiple models, use gridsearchCV and PCA to find the optomized version of the best model used to make predictions.
 
-    https://github.com/JoeBwonKenobi/Car-Insurance-Project/blob/main/Project2_Part_4.ipynb
+    https://github.com/JoeBwonKenobi/Car-Insurance-Project/blob/main/Car_Insurance_Prediction_Models.ipynb
    
 # **Visualizations of Data:**
 
