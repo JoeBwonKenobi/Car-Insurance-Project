@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/sagnik1511/car-insurance-data
 
 # **Project Overview:**
 
-I built a Logistic Regression Model, Random Forest Classifier, and KNN models and tuned them using Gridsearch CV. I used GridsearchCV because it systematically searches through a specified range of hyperparameters to find the best combination of hyperparameters that optimize the performance of the model. This ensures that I'm getting the best possible version of the model.
+Using Google Colab, I built a Logistic Regression Model, Random Forest Classifier, and KNN models and tuned them using Gridsearch CV. I used GridsearchCV because it systematically searches through a specified range of hyperparameters to find the best combination of hyperparameters that optimize the performance of the model. This ensures that I'm getting the best possible version of the model.
 
 I separated this project into four different notebooks for the four major steps included in the project,They are linked below:
 
